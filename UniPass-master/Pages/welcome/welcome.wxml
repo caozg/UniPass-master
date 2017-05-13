@@ -4,4 +4,5 @@
     <button bindtap="onButton1Click">Button</button>
     <button bindtap="onButton2Click">Button2</button>
     <button bindtap="onButton3Click">Button3</button>
+    <button bindtap="onButton4Click">Button4</button>
 </view>
